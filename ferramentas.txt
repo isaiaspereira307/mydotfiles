@@ -1,0 +1,27 @@
+Tmux
+C-b tecla mestre (M)
+M c (Cria uma nova janela)
+M n (next janela)
+M p (previous janela)
+M 0 (numero da sessao vai para a sessao)
+M " (nov janela modo horizontal)
+M % (nova janela modo vertival)
+M setas (se movimentar entre as janelas)
+M d (detached session)
+tmux ls (lista sessions)
+M a -t 0 (volta a session de numero 0)
+M $ (rename session)
+M , (rename window)
+M z (zoom na janela)
+M w (modo interativo que mostra as sessions e janelas)
+tmux new -s email (inicia com o nome da session email)
+tmux new -s teste -d (cria session sem entrar)
+tmux kill-session -t nome (mata session)
+tmux kill-server (mata todas as sessions)
+M t (mostra a hora)
+
+qutebrowser
+
+
+qalc (calculadora)
+links
