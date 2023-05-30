@@ -21,6 +21,22 @@ tmux kill-server (mata todas as sessions)
 M t (mostra a hora)
 
 qutebrowser
+f aparece todas as teclas possiveis na tela
+o twitwer (vai para twiter)
+shift o pesquisa (pesquisa em nova aba)
+shfit j (muda de aba)
+d (fecha a aba)
+u (desfaz fechar aba)
+Shift h (volta no historico)
+j (sobe)
+k (desce)
+r (reload)
+:open -w site (abre site no lado do outr)
+:q (para fechar janela aberta)
+:open -p site (abre site em aba anonima)
+C-d (desce quando esta no video do yt)
+C-u (sobe quando esta no video do yt)
+
 
 
 qalc (calculadora)
